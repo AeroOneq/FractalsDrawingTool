@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Graphics.CheckColorString">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckColorString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.InitializeMainGrids" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAJEAAAABACAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>FormsInitialization\InitializeMainGrids.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.NFFractal" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAgAAAQAAAAAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Fractals\NFFractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.QCFractal" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>Fractals\QCFractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.SCFractal" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAQAABAAAAIAAAAAAAAQ=</HashCode>
+      <FileName>Fractals\SCFractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.NFDrawingParams" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FractalsDrawingParameters\NFDrawingParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.QCDrawingParams" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FractalsDrawingParameters\QCDrawingParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.SCDrawingParams" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FractalsDrawingParameters\SCDrawingParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.CreateFractalMenu" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FractalsMenu\CreateFractalMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.CreateNFFractalMenu" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FractalsMenu\CreateNFFractalMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.CreateQCFractalMenu" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FractalsMenu\CreateQCFractalMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.CreateSCFractalMenu" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FractalsMenu\CreateSCFractalMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.GetCurrentColor">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GetCurrentColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.DrawingParameters" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>MainBaseClasses\DrawingParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.Fractal" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAQABgAAAAAAAAAAAAAAAAAAQAEAAAAAAAQ=</HashCode>
+      <FileName>MainBaseClasses\Fractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.NFFractalPointData" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NFFractalPointData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.PointData" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PointData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics.StartDraw" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAADQAAAQABAAIAQAQgAAAQAAA=</HashCode>
+      <FileName>StartDraw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
